@@ -1,0 +1,2 @@
+Guarda aquí los PDF de los comunicados (ej: 2026-11-10-reglamento.pdf)
+y en js/datos.js pon:  pdf: "comunicados/2026-11-10-reglamento.pdf"
